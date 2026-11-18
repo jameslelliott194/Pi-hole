@@ -4,6 +4,27 @@ analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
 advice-ads.s3.amazonaws.com
 
+
+
+#​Amazon Ad Networks
+​0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+
+
+#​Sentry
+​browser.sentry-cdn.com
+
+#​TikTok
+​ads-api.tiktok.com
+analytics.tiktok.com
+ads-sg.tiktok.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+
+
 # Ad networks - Doubleclick.net
 stats.g.doubleclick.net
 ad.doubleclick.net
