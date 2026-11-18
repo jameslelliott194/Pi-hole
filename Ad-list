@@ -1,0 +1,125 @@
+# Ad networks - Amazon
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+
+# Ad networks - Doubleclick.net
+stats.g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+
+# Ad networks - Media.net
+static.media.net
+media.net
+
+# Ad networks - Google Ads
+pagead2.googlesyndication.com
+adservice.google.com
+pagead2.googleadservices.com
+afs.googlesyndication.com
+
+# Ad networks - Adcolony
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+
+# Analytics and session recording - Google Analytics
+analytics.google.com
+click.googleanalytics.com
+google-analytics.com
+ssl.google-analytics.com
+
+# Analytics and session recording - MouseFlow
+mouseflow.com
+cdn.mouseflow.com
+o2.mouseflow.com
+gtm.mouseflow.com
+api.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+
+# Analytics and session recording - Luckyorange
+luckyorange.com
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
+
+# Analytics and session recording - Hotjar
+adm.hotjar.com
+identify.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+surveys.hotjar.com
+careers.hotjar.com
+
+# Analytics and session recording - FreshWorks
+freshmarketer.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+
+# Analytics and session recording - Stats WP Plugin
+stats.wp.com
+
+# Error and crash reporting - Bugsnag
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+
+# Error and crash reporting - Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+# Social network trackers - Facebook
+pixel.facebook.com
+an.facebook.com
+
+# Social network trackers - LinkedIn
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+# Social network trackers - Reddit
+events.reddit.com
+events.redditmedia.com
+
+# Social network trackers - TikTok
+ads-api.tiktok.com
+analytics.tiktok.com
+ads-sg.tiktok.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
+
+# Social network trackers - Twitter
+static.ads-twitter.com
+ads-api.twitter.com
+
+# Social network trackers - Pinterest
+ads.pinterest.com
+log.pinterest.com
+trk.pinterest.com
+
+# Social network trackers - YouTube
+ads.youtube.com
+
+# Mixed ad and tracking networks - Yahoo
+ads.yahoo.com
+analytics.yahoo.com
+geo.yahoo.com
+udcm.yahoo.com
+analytics.query.yahoo.com
+partnerads.ysm.yahoo.com
+log.fc.yahoo.com
+gemini.yahoo.com
+adtech.yahooinc.com
+
+
