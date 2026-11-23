@@ -144,3 +144,25 @@ gemini.yahoo.com
 adtech.yahooinc.com
 
 
+# Meta Audience Network (In-App Ads in Third-Party Apps)
+an.facebook.com
+ads.facebook.com
+ad.atdmt.com
+c.atdmt.com
+view.atdmt.com
+pixel.facebook.com
+analytics.facebook.com
+connect.facebook.net
+creative.ak.fbcdn.net
+external.xx.fbcdn.net
+
+# Meta Graph & App Events / SDK Telemetry
+graph.facebook.com
+graph-fallback.facebook.com
+b-graph.facebook.com
+ep1.facebook.com
+ep2.facebook.com
+mqtt-mini.facebook.com
+star-mini.c10r.facebook.com
+star-mini.fallback.c10r.facebook.com
+edge-mqtt.facebook.com
