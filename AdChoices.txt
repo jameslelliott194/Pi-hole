@@ -1,0 +1,47 @@
+# Digital Advertising Alliance (AdChoices / AppChoices) Endpoints
+aboutads.info
+www.aboutads.info
+optout.aboutads.info
+youradchoices.com
+www.youradchoices.com
+choices.trustarc.com
+preferences-mgr.truste.com
+c.betrad.com
+l.betrad.com
+
+# Major Participating DAA / AdChoices Mobile Exchanges & DSPs
+# Google AdMob / DoubleClick
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+adservice.google.com
+tpc.googlesyndication.com
+mediavisor.doubleclick.net
+
+# Criteo
+bidder.criteo.com
+static.criteo.net
+gum.criteo.com
+dis.criteo.com
+sslwidget.criteo.com
+
+# Magnite (Rubicon Project) & OpenX
+fastlane.rubiconproject.com
+pixel.rubiconproject.com
+eus.rubiconproject.com
+rtb.openx.net
+us-u.openx.net
+u.openx.net
+
+# PubMatic & Index Exchange
+hbopenbid.pubmatic.com
+ads.pubmatic.com
+image6.pubmatic.com
+htlb.casalemedia.com
+as-sec.casalemedia.com
+
+# The Trade Desk & InMobi
+match.adsrvr.org
+insight.adsrvr.org
+api.w.inmobi.com
+config.inmobi.com
+sdk.inmobi.com
