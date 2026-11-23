@@ -1,0 +1,34 @@
+# Unity Ads & Auction Infrastructure
+unityads.unity3d.com
+admediator.unityads.unity3d.com
+adserver.unityads.unity3d.com
+auction.unityads.unity3d.com
+auction-load.unityads.unity3d.com
+auiopt.unityads.unity3d.com
+config.unityads.unity3d.com
+configv2.unityads.unity3d.com
+gateway.unityads.unity3d.com
+httpkafka.unityads.unity3d.com
+publisher-config.unityads.unity3d.com
+scar.unityads.unity3d.com
+webview.unityads.unity3d.com
+
+# Unity Offerwall & Telemetry
+content.offerwall.unity3d.com
+gateway-b.offerwall.unity3d.com
+cdp.cloud.unity3d.com
+events.mz.unity3d.com
+
+# Unity Playworks / Luna Labs
+lunalabs.io
+api.lunalabs.io
+playground.lunalabs.io
+playworks.unity.com
+
+# Unity LevelPlay (ironSource) Mediation
+ironsrc.mobi
+ads.ironsrc.mobi
+outcome-ssp.supersonicads.com
+supersonicads.com
+isprog.com
+atom-data.io
